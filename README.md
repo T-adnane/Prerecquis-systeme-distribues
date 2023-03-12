@@ -5,7 +5,6 @@
 
 
 
-# Prerecquis-systeme-distribues
 ## Premier Application Client serveur
 ### MyClient.java
 ![MyClient](https://user-images.githubusercontent.com/115072337/224540320-d651a808-6e5a-4aed-9579-68e18cae5651.PNG)
