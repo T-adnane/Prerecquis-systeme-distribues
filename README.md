@@ -36,3 +36,25 @@ les utilisateurs entre des nombres jusqu'au il ya un gagnant
 ![ServeurJeu3](https://user-images.githubusercontent.com/115072337/224550783-704a4f78-e91c-4609-b20f-2feefcbaf935.PNG)
 Si un utilisateur gagne les autres n'on pas le droit de continuer à jouer
 ![ServeurJeu4](https://user-images.githubusercontent.com/115072337/224550827-a8a67253-e4cb-4025-8a15-ed40d43b4c7c.PNG)
+## Serveur de chat
+### ServeurChat.java
+![conversation1](https://user-images.githubusercontent.com/115072337/224556994-e9a2c6af-bf7c-49cc-adbb-7dedab27fab7.PNG)
+![conversation2](https://user-images.githubusercontent.com/115072337/224557002-6dc80bde-137f-4a24-a449-c135cc6244dc.PNG)
+![conversation3](https://user-images.githubusercontent.com/115072337/224557003-ace6dbcf-f588-46e9-9abd-a6a0c4e6336f.PNG)
+Si un utilisateur envoie un message simple tous les autres utilisateurs vous le recoit
+![ServeurChat1](https://user-images.githubusercontent.com/115072337/224557077-ee220c52-47b9-40e1-a685-d82388ce4971.PNG)
+![ServeurChat2](https://user-images.githubusercontent.com/115072337/224557083-6942cb32-b451-40a2-932c-7ae348497079.PNG)
+Si il précis le numéro d'utilisateur qu'il veut recevoir les autres ne recevois rien
+![ServeurChat3](https://user-images.githubusercontent.com/115072337/224557141-27ed3d01-a3b1-41a9-8c4c-c10fc7a59158.PNG)
+![ServeurChat4](https://user-images.githubusercontent.com/115072337/224557152-1d973617-66cb-41eb-b5f8-d77c9528ab1c.PNG)
+
+
+
+
+
+
+
+
+
+
+
