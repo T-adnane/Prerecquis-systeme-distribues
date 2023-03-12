@@ -54,18 +54,14 @@ public class ServeurJeu extends Thread {
 				pw.println("Bien venue vous etes le client numéro "+numeroClient);
 				pw.println("Deviner le nombre Secret .......");
 				while(true) {
-					String req = br.readLine();
-					int nombre = Integer.parseInt(req);
-					System.out.println("Le Client "+IP+" Tentative avec le nombre "+nombre);
+					String req = br.readLine();int nombre = Integer.parseInt(req);System.out.println("Le Client "+IP+" Tentative avec le nombre "+nombre);
 					if(fin == false) {
 						if(nombre>nombreSecret) {
 							pw.println("Votre nombre est sup au nombreSecret");
 						}else if(nombre<nombreSecret) {
 							pw.println("Votre nombre est inf au nombreSecret");}
 						else {
-							pw.println("Vous avez gagné");
-							gagnant = IP;
-							System.out.println("BRAVO au gagnant "+gagnant);
+							pw.println("Vous avez gagné");gagnant = IP;System.out.println("BRAVO au gagnant "+gagnant);
 							fin = true;
 						}
 					}else {
